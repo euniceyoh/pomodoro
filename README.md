@@ -12,4 +12,4 @@
 
 ## aesthetics
 
-<img src='https://media.giphy.com/media/pIZ5tlWE9UzR0jaZw6/giphy.gif' />
+<img src='https://media.giphy.com/media/aM7G5hg0PWqSyt8KkR/giphy.gif' />
