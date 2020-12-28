@@ -1,6 +1,6 @@
 # pomodoro timer
 
-- my first react native app
+This timer will help people trying to use the Pomodoro Technique. It will vibrate to tell you when to take breaks or resume working. This is also my first react native app. 
 
 ## requirements
 
